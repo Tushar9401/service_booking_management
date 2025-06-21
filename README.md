@@ -11,16 +11,18 @@ A custom Frappe app to manage and automate service bookings.
 - Custom report for filtering bookings
 
 ##  Installation
+**1. Clone the app inside your bench:**
+      
+      cd frappe-bench/apps
+      git clone https://github.com/TusharTs9401/service_booking_management.git
 
-1. Clone the app inside your bench:
-   cd frappe-bench/apps
-   git clone https://github.com/TusharTs9401/service_booking_management.git
+**2.Install the app:**
 
-2.Install the app:
-    bench --site your-site-name install-app service_booking_management
+       bench --site your-site-name install-app service_booking_management
+   
+**3.Restart bench:**
 
-3.Restart bench:
-  bench restart
+     bench restart
 
 
 **Requirements**
