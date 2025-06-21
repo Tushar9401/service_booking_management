@@ -30,9 +30,24 @@ A custom Frappe app to manage and automate service bookings.
   Python 3.10+
   Git
 
+**System Info**
+
+| Component       | Version / Tool                                |
+| --------------- | --------------------------------------------- |
+| OS              | macOS / Ubuntu 22.04 (or your OS)             |
+| Python Version  | 3.10.x                                        |
+| Frappe Version  | 15.63.0                                       |
+| ERPNext Version | 15.55.4                                       |
+| Tools Used      | Visual Studio Code, Git CLI, Frappe Bench CLI |
+
+
 **Author**
+
   Tushar Thakkar
+  
   https://github.com/Tushar9401
+
+
 
 
 **Feel free to fork, contribute, or raise issues!**
